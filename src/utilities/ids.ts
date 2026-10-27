@@ -22,6 +22,7 @@ export const ComponentIDs = {
   loginDropdown: 'loginDropdown',
   loginDropdownSignIn: 'loginDropdownSignIn',
   loginDropdownSignUp: 'loginDropdownSignUp',
+  luckyMenuItem: 'luckyMenuItem',
   profilesMenuItem: 'profilesMenuItem',
   projectsMenuItem: 'projectsMenuItem',
   signInFormEmail: 'signInFormEmail',
